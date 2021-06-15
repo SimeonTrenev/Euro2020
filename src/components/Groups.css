@@ -1,0 +1,11 @@
+.groups {
+    display: inline-block;
+    margin: 3rem;
+    text-align: center;
+}
+
+body {
+    height: 50%;
+    width: 100%;
+    text-align: center;
+}

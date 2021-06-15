@@ -1,0 +1,15 @@
+.navlinks {
+    display: inline - block;
+    width: 100%;
+    color: red;
+    margin: 20px;
+    text-align: center;
+    
+}
+
+.navigation {
+    color: red;
+    display: block;
+    margin: 10px;
+}
+
